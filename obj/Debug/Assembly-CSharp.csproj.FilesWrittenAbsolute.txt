@@ -1,0 +1,17 @@
+/Users/joaquinbengochea/Games/SurvivalShooter/Roguelike/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/joaquinbengochea/Games/SurvivalShooter/Roguelike/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/joaquinbengochea/Games/SurvivalShooter/Roguelike/obj/Debug/Assembly-CSharp.dll
+/Users/joaquinbengochea/Games/SurvivalShooter/Roguelike/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/joaquinbengochea/Games/SurvivalShooter/Roguelike/Temp/bin/Debug/UnityEngine.dll
+/Users/joaquinbengochea/Games/SurvivalShooter/Roguelike/Temp/bin/Debug/UnityEditor.dll
+/Users/joaquinbengochea/Games/SurvivalShooter/Roguelike/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/joaquinbengochea/Games/SurvivalShooter/Roguelike/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/joaquinbengochea/Games/SurvivalShooter/Roguelike/Temp/bin/Debug/Mono.Cecil.dll
+/Users/joaquinbengochea/Games/SurvivalShooter/Roguelike/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/joaquinbengochea/Games/SurvivalShooter/Roguelike/Temp/bin/Debug/Unity.DataContract.dll
+/Users/joaquinbengochea/Games/SurvivalShooter/Roguelike/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/joaquinbengochea/Games/SurvivalShooter/Roguelike/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/joaquinbengochea/Games/SurvivalShooter/Roguelike/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/joaquinbengochea/Games/SurvivalShooter/Roguelike/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/joaquinbengochea/Games/SurvivalShooter/Roguelike/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/joaquinbengochea/Games/SurvivalShooter/Roguelike/Temp/bin/Debug/Mono.Cecil.Mdb.dll
